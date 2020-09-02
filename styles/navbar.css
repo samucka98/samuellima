@@ -2,6 +2,7 @@
   margin: 0;
   width: 100%;
   height: 100px;
+  backdrop-filter: saturate(180%) blur(5px);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
