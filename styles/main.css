@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  overflow: hidden;
+}
+
+body {
+  width: 100%;
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+}
