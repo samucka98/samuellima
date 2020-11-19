@@ -36,7 +36,7 @@
 
 .typing-animation-3 {
   animation: blinkCursor 500ms steps(40) infinite normal,
-    typing 4s steps(40) 7s normal both;
+    typing 4s steps(40) 8s normal both;
 }
 
 
