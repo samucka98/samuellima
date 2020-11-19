@@ -1,7 +1,7 @@
 .contentHeader {
   width: 100%;
   height: calc(100vh - 100px);
-  bottom: 0;
+  top: 120px;
   display: flex;
   justify-content: center;
   align-items: center;
