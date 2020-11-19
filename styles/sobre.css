@@ -1,6 +1,7 @@
 .sobre {
   position: relative;
-  top: -150px;
+  height: 100vh;
+  top: -230px;
   color: #fafafa;
   height: 500px;
   margin: 0px 22px;
